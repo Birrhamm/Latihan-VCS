@@ -101,7 +101,7 @@ $ git add README.md
 #### - Untuk menambahkan remote repository server, gunakanlah perintah
 ####  Git remote add origin [url]
 
-$ git remote add https://github.com/RadjaAzukio/labpy1.git
+$ git remote add https://github.com/Birrhamm/labpy1.git
 
 ## Push ( Mengirim Perubahan ke Server)
 
